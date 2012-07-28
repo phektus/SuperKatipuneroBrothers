@@ -1,0 +1,7 @@
+.DS_Store
+*.[oa]
+.hg.
+svn
+CVS
+.xcodeproj/ !*.xcodeproj/project.pbxproj
+build
